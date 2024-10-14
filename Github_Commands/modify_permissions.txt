@@ -1,0 +1,5 @@
+Using the numerical method: chmod 644
+Alternative: 
+chmod u+rw <filename>
+chmod g+r <filename>
+chmod 0+r <fileanme>
