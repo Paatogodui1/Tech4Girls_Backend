@@ -1,0 +1,1 @@
+enter into the home directory and then to the Tech4Girls_Backend directory and then into the Github_Commands direvtory to find the README.md file.
