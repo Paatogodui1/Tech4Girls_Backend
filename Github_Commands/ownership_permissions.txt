@@ -1,0 +1,10 @@
+File ownership in Linux is a concept that defines who has control over a file or directory. These owners are the owner, group and others.
+The permissions (modes):
+Read (r): Allows the content of the file or directory to be read. represented by a numeric mode 4.
+Write (w): Allows the file or directory to be modified or deleted. represented by a numeric mode 2.
+Execute (x): Allows the file or directory to be executed as a program or script. represented by a numeric mode 1.
+To check the permissions of a file or directory, use the "ls -l" command.
+The permissions are dispaled in three notations.
+To add a permission to a file or directory use the chmod command: chmod <type of owner> + <permission>
+To remove a permission , use: chmod <type of owner> - <permission>
+To use the numeric mode, the chmod command can be used too: <***> where the first digit reresents permissions for the onwer , the second for the group and the third for others.
