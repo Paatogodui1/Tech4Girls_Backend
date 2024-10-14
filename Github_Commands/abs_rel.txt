@@ -1,0 +1,2 @@
+Absolute path has to deal with moving into a directory far away from the  current working directory. It usually starts from the root directory.
+With the relative path, it specifies the path relative to the current working directory.
