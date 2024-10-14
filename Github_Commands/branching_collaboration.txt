@@ -1,0 +1,3 @@
+Branching in Git is a github feature that allows multiple developers to work on different aspects of a project at the same time without interfering with each other’s work.
+Git branching is helpful in avoding the main codebaase from being affected with bugs.
+With git branching, conflicts can be eschewed.
