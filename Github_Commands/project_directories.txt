@@ -1,0 +1,3 @@
+To create the Backend_Projects, use the command mkdir: mkdir Backend_Projects
+cd Backend_Projects to enter into the directory
+mkdir ProjectA ProjectB to create the subdirectories
