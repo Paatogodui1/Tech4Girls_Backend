@@ -1,0 +1,3 @@
+To create a branch, use the command "github <branch_name>"
+To publish the branch to Github, use "git push origin <branch_name>"
+To switch to the branch, use: "git checkout <branch_name>"
