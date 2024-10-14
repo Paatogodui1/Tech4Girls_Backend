@@ -1,0 +1,2 @@
+7 Directories found in the root directory:
+sys  tmp  usr  var  home bin init  
