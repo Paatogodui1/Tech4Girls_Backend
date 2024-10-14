@@ -1,0 +1,1 @@
+The root directory contains all other directories in the system and it is represented with a "/" but the home directory is a personal directory inside the root directory where files are stored.
