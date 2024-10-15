@@ -1,0 +1,10 @@
+ -rw-r--r-- 1 userhacsa userhacsa 70 Oct 14 10:00 script.sh
+ -rw-r--r--: This represents the file permissions.
+ The first - indicates that it is a file
+ The rw- indicates the read and write permissions for the owner where the - means the owner cannot execute the file.
+ The r-- indicates the read permission for the group but no permissions to write(first -) or execute(second -)
+ The last r-- is the read permission for others with no permission to write and execute
+ The 70 represents the size of the file
+ Oct 14 represents the date the file was created or modified
+ 10:00 represents the time the file was modified
+ The script.sh represents the name of the file
