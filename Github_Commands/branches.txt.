@@ -1,0 +1,4 @@
+The root directory contains all other directories in the system and it is represented with a "/" but the home directory is a personal directory inside the root directory where files are stored.
+The git pull command to used to update changes in the local repository from the remote repository.
+Git pull is used before starting a new work or making changes to an already existing one making sure that the userr is working on the most current version of the codebase.
+And when collaborating with others, git pull is used to avoid conflicts.
