@@ -1,0 +1,6 @@
+A bash script is a file containing a series of commands that can be executed to achieve a desired result.
+How a bash file can be created:
+touch <filename.sh>
+Inside the file, type the shebang (#!/bin/bash)
+Write a command 
+To execute the command, the file has to be executable.
