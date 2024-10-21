@@ -1,7 +1,8 @@
 #!/bin/bash
-Number=21
-while [[ $Number -le 22 ]]
+Number=20
+while [[ $Number -gt 0 ]]
 do 
-echo "$Number"
+ echo "$Number"
 Number=$(($Number-1))
 done
+ echo "Countdown complete!"
