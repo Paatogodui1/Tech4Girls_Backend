@@ -1,0 +1,7 @@
+To open the Python interpreter:
+Type "Python3" in the terminal and run it.
+An example of using the interpreter to add two numbers:
+x=7
+y=8
+z=(x+y)
+print(z)
