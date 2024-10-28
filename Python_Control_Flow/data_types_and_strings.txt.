@@ -1,0 +1,40 @@
+DATA TYPES:
+ 1. int: The int data type represents integers(Both positive and negative whole numbers).
+Example: a = 20
+Here, a is a variable containing the int value 20.
+ 2. float: The float data type represents numerical values with decimals.
+Example: b = 20.99
+Here, b is a variable containing the float value 20.99.
+ 3. str: The str represents the string data type which is used to write texts. The textx in strings are usually written in single or double quotes.
+Example: Name = "Precious Akofa"
+Here, the variable Name is has a string value Precious Akofa in quotes.
+ 4. list: The list data type stores or keeps data in square brackets[].
+Example: Numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+ 5. tuple: The tuple is a data type that stores data in parenthesis().
+Example: List_tuple = (1, 2, 3, 5, 7, 8, 0)
+ 6. set: The set stores data type in curly braces{}.
+Example: {'Ama', 'Akofa', 'Togodui', 'Precious'}
+
+
+
+STRING METHODS(Examples):
+Name= 'Togodui Daniella'
+
+ upper(); string method
+print(Name.upper())
+
+ lower()
+print(Name.lower())
+
+ replace()
+print(Name.replace('Togodui', 'Akofa'))
+
+ split()
+print(Name.split())
+
+ join()
+print("_".join(Name))
+
+ find()
+print(Name.find('Daniella'))
+
