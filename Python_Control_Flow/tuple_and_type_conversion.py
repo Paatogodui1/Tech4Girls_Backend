@@ -21,4 +21,4 @@ print(Int)
 
 #Join()
 List_of_strings = ['Precious', 'Akofa', 'Ama', 'Togodui']
-print(' '.join(List_of_strings))
+print(" ".join(List_of_strings))
