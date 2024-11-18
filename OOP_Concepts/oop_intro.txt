@@ -1,0 +1,30 @@
+Definition of (Object Oriented Programming)OOP:
+OOP is a programming model in which the code to implement programming logic is based on the concepts of 'objects'.
+
+In OOP, there are four main principles: 
+ Encapsulation
+ Abstraction
+ Inheritance
+ Polymorphism
+
+ Encapsulation:
+It describes the idea of wrapping data attributes and its methods that work on the data attributes within one unit.
+An example would be a Student class with attributes name, age, school that stores a student's information.
+
+ Abstraction:
+This process involves hiding an object's implementation details and only showing the user the information that is absolutely necessary. 
+
+ Inheritance:
+This mechanism allows or lets a class acquire or inherit attributes from another class.
+
+ Polymorphism:
+This allows a user, programmer or developer to use a common operation in different ways.
+An example would be the addition sign for adding integers and concatenating strings.
+
+Some benefits of OOP in Software development:
+
+Object-Oriented Programming (OOP) helps in organizing code better by modeling real-world objects, making complex software more manageable. 
+For instance, in a banking system, we can have an Account class that encapsulates details like the deposit and withdraw methods to deposit or withdraw money, reflecting how real accounts work. 
+Take the ATM machine as an example. This modular approach means we can add new types of accounts, like savings or checking, without disrupting existing code.
+And by using inheritance, we can reuse code efficiently. For example, in the academic industry, you can have a Student class with basic attributes like name, age, behaviour and grade. All students, whether seniors or juniors, can inherit these attributes and methods, adding only what's unique to them or what makes them different from other students. 
+This reduces redundancy and simplifies maintenance amongst other benefiits.
