@@ -1,7 +1,8 @@
 #Creating a class BankAccount
+bank_name ="Tech4Girls Bank"
+
 class BankAccount:
     def __init__(self, account_holder):
-        self.bank_name ="Tech4Girls Bank"
         self.account_holder= account_holder
         self.balance=  0
 
@@ -23,12 +24,14 @@ class BankAccount:
             print("Invalid withdrawal amount.")
 
 #Defining a static method bank_policy() that prints a generic policy message.
+    @staticmethod
     def bank_policy(): 
         print("Bank Policy: Your account will be closed if there are no transactions made for about 2 years.")
 
 #Defining a  class method get_bank_name() to return the bank name.
-    def get_bank_name(PV): 
-        return PV.get_bank_name
+    @classmethod
+    def get_bank_name(pv): 
+        return pv.get_bank_name
     
 #Creating instances of the BankAccount class 
 accounta = BankAccount("Precious") 
@@ -46,7 +49,7 @@ print()
 BankAccount.bank_policy()
 print()
 #Testing class method 
-#print("Bank Name:", BankAccount.get_bank_name())
-#print()
+print("Bank Name:", BankAccount.get_bank_name())
+print()
 # Displaying account details 
 print(f"Account Holder: {accounta.account_holder}, Balance: {accounta.balance}") 

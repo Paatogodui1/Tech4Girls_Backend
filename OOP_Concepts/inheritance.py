@@ -7,6 +7,7 @@ class Employee:
     def get_details(self): 
             print(f"Employee Name: {self.name}") 
             print(f"Position: {self.position}") 
+
 #Child class Manager that inherits from Employee 
 class Manager(Employee): 
     def __init__(self, name, position, department): 
@@ -23,7 +24,7 @@ employee1 = Employee("Habiba Adams", "Software Engineer")
 #Creating an instance of Manager 
 manager1 = Manager("Ophebea Iris", "Project Manager", "Margins Group") 
 
-#Calling get_details() to test the functionality 
+#Calling get_details() 
 print("Employee Details:") 
 employee1.get_details() 
 print("\nManager Details:") 
