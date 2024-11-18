@@ -27,4 +27,4 @@ Object-Oriented Programming (OOP) helps in organizing code better by modeling re
 For instance, in a banking system, we can have an Account class that encapsulates details like the deposit and withdraw methods to deposit or withdraw money, reflecting how real accounts work. 
 Take the ATM machine as an example. This modular approach means we can add new types of accounts, like savings or checking, without disrupting existing code.
 And by using inheritance, we can reuse code efficiently. For example, in the academic industry, you can have a Student class with basic attributes like name, age, behaviour and grade. All students, whether seniors or juniors, can inherit these attributes and methods, adding only what's unique to them or what makes them different from other students. 
-This reduces redundancy and simplifies maintenance amongst other benefiits.
+This reduces redundancy and simplifies maintenance amongst other benefits.
